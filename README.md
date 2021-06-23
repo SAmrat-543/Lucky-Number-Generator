@@ -21,4 +21,4 @@ This Python Project Randomly generates a unique Lucky Number.
 -------------------------- Python Executable .PYC from "_pycache_" -----------------------------------
 
 
-# Note : This Project is just for Entertainment Purpose.
+## Note : This Project is just for Entertainment Purpose.
