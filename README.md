@@ -18,7 +18,7 @@ This Python Project Randomly generates a unique Lucky Number.
           
 =====================================================================================          
 
------------ Please Download the .EXE file from "dist" folder -------------
+----- Please Download the WINDOWS executable .EXE file from "dist" folder ------
 
                                    or
 
