@@ -12,7 +12,9 @@ This Python Project Randomly generates a unique Lucky Number.
           cmd:>/ pyinstaller --onefile file_name.py
           
 --------------------------Please Download the .EXE file from "dist" folder---------------------------
+
                                                 or
+
 -------------------------- Python Executable .PYC from "_pycache_" -----------------------------------
 
 
