@@ -2,6 +2,7 @@
 This Python Project Randomly generates a unique Lucky Number.
 
 ====================================================================================
+
 #1. Install "Pyinstaller" using CMD to convert .py file into .exe file
          
          cmd:>/ pip install pyinstaller
@@ -16,6 +17,7 @@ This Python Project Randomly generates a unique Lucky Number.
           
           
 =====================================================================================          
+
 ----------- Please Download the .EXE file from "dist" folder -------------
 
                                    or
