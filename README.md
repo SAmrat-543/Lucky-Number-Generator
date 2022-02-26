@@ -1,7 +1,8 @@
 # Lucky-Number-Generator
 This Python Project Randomly generates a unique Lucky Number.
 
-
+NOTE: THIS PROJECT CAN BE DIRECTLY EXECUTED BY USING THE EXECUTABLE FILE FROM "dist" FOLDER 
+                           #OR
 =========================================================================
 
 #1. Install "Pyinstaller" using CMD to convert .py file into .exe file
